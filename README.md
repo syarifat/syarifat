@@ -1,67 +1,64 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm Syarif Ahsani Taqwim</h1>
-<h3 align="center">🚀 Smart School | IoT | Fullstack Developer</h3>
+<h3 align="center">💻 Programmer | 🌐 Network Engineer | 🔧 IoT Enthusiast</h3>
 
-<!-- Typing effect -->
+---
+
+## 👨‍💼 About Me
+I’m a software developer and network engineer with a strong passion for **web, mobile, and IoT development**.  
+I also work in **network infrastructure, server administration, and IT support**.  
+My goal is to integrate **technology + networking** into impactful digital solutions.  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Programming
+- **Languages & Frameworks:** PHP (Laravel), JavaScript (React.js, Node.js), Kotlin, Flutter, Python  
+- **Databases:** MySQL, Firebase, SQLite  
+- **Mobile & IoT:** Android Studio, ESP32, Arduino, Raspberry Pi  
+
+### 🌐 Networking
+- **Servers:** Linux Server, Apache/Nginx, Mail Server  
+- **Networking:** Mikrotik, VPN, Routing, Switching, Firewall  
+- **Others:** VOIP, CCTV Integration, Cloud Infrastructure  
+
+### 🧰 Software I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,kotlin,flutter,python,mysql,firebase,arduino,raspberrypi,linux" />
+  <img src="https://img.shields.io/badge/Mikrotik-Network-blue?style=for-the-badge&logo=ubiquiti" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 Programming Projects
+- 📌 **IoT Attendance System with Web Server** – Digital attendance solution integrated with Laravel.  
+- 📌 **Real-time Tobacco Oven Monitoring** – Flutter app + IoT for smart farming.  
+- 📌 **Smart Irrigation System** – Automatic plantation irrigation controlled via Android app.  
+- 📌 **siPredi (Sistem Presensi Digital)** – RFID-based digital attendance system (*Ongoing*).  
+- 📌 **Smart Waste Marketplace** – Marketplace for recyclable waste (*Ongoing*).  
+
+### 🌐 Networking Projects
+- 📡 **Village Network Infrastructure (Batangsaren, 2025)** – Designed & implemented full-scale internet coverage.  
+- 📡 **Wireless Deployment & Server Room** – Built rural wireless coverage with server integration.  
+- 📡 **Community IT Support (2023)** – IT support, CCTV, VOIP for local organizations.  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Smart+School+Management;IoT+%7C+Embedded+System;Fullstack+Web+%26+Mobile+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=syarifat&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syarifat&theme=radical" height="160" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 Passionate about **IoT & Smart School Systems**  
-- 💡 Love to explore **Cloud, Firebase, ESP32, and AI integrations**  
-- 📱 Experienced in **Android (Kotlin)** & **Web Development (Laravel, Tailwind, Node.js)**  
-- 🌱 Currently learning **DevOps & System Design**  
-- 🎯 Goal: **Build impactful tech that improves education**  
+## 📫 Contact Me
+- 📧 Email: **syarifahsanit@gmail.com**  
+- 📱 Phone: **+62 878-4294-9212**  
+- 🌐 Portfolio: [sat-project.me](#)  
 
 ---
 
-## 🔧 Tech Stack  
-
-**Languages & Frameworks:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,py,cpp" />
-</p>
-
-**Frameworks & Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,nextjs,express,tailwind,bootstrap,arduino,firebase,mysql,postgres,sqlite" />
-</p>
-
-**Others:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syarifahsani&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syarifahsani&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
----
-
-## 🏆 Achievements & Badges  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syarifahsani&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/username"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/username"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://wa.me/628xxxx"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
-
----
-
-⭐️ From [@syarifahsani](https://github.com/syarifahsani)  
+⭐️ From [@syarifat](https://github.com/syarifat)
