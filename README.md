@@ -57,7 +57,7 @@ My goal is to integrate **technology + networking** into impactful digital solut
 ## 📫 Contact Me
 - 📧 Email: **syarifahsanit@gmail.com**  
 - 📱 Phone: **+62 878-4294-9212**  
-- 🌐 Portfolio: [sat-project.me](#)  
+- 🌐 Portfolio: [sat-project.me](https://sat-project.me)  
 
 ---
 
